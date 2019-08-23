@@ -3,6 +3,8 @@ This repository contains the sdk unpackaged from Husarion’s VSCode extension. 
 
 Currently, the only provided and documented build options are for Husarion are 1. Their Web IDE or 2. Their VSCode extension. This repository allows you to build offline using neither of these tools.
 
+You can find this sdk yourself by downloading their [VSCode extension](https://marketplace.visualstudio.com/items?itemName=husarion.husarion), extracting it (I did `$ dtrx <extension>` and then `$ unzip <dtrx output>`), and finding it (`$ find -name sdk`)
+
 ## Example Compilation
 
 ```
